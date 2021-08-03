@@ -1,0 +1,1 @@
+CREATE TABLE chitters(id SERIAL PRIMARY KEY, username VARCHAR(16), chitt`er VARCHAR(144), date VARCHAR(8));`
